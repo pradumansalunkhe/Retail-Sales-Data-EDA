@@ -23,5 +23,18 @@ In this project, you will work with a dataset containing information about retai
 
 # Project OutPut ScreenShort
 
- https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/1.png?raw=true
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/1.png?raw=true
+
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/2.png?raw=true
+
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/3.png?raw=true
+
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/4.png?raw=true
+
+
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/5.png?raw=true
+
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/6.png?raw=true
+
+https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/7.png?raw=true
  
