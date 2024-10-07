@@ -22,19 +22,12 @@ In this project, you will work with a dataset containing information about retai
 
 
 # Project OutPut ScreenShort
+![4](https://github.com/user-attachments/assets/111170f4-f4d0-4a01-aa08-c038cf4a5372)
+![5](https://github.com/user-attachments/assets/d39b3a1b-3cef-439c-9ba1-9bc5d39c0ceb)
+![6](https://github.com/user-attachments/assets/38a1d686-732e-4c2b-9d56-127c961e9ebb)
+![7](https://github.com/user-attachments/assets/22fbf3b4-dd85-4027-bf1e-ab7e3910384c)
+![1](https://github.com/user-attachments/assets/c3f3fda1-245a-4064-b218-04594ef86249)
+![2](https://github.com/user-attachments/assets/7a4ea5a4-6ee0-4961-b080-545e38582e27)
+![3](https://github.com/user-attachments/assets/a43af4f2-917d-424d-8035-1d264d739032)
 
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/1.png?raw=true
-
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/2.png?raw=true
-
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/3.png?raw=true
-
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/4.png?raw=true
-
-
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/5.png?raw=true
-
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/6.png?raw=true
-
-https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/7.png?raw=true
  
