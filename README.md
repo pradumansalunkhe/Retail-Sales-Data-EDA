@@ -22,3 +22,6 @@ In this project, you will work with a dataset containing information about retai
 
 
 # Project OutPut ScreenShort
+
+ https://github.com/pradumansalunkhe/Retail-Sales-Data-EDA/blob/main/1.png?raw=true
+ 
