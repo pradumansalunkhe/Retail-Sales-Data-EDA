@@ -19,3 +19,6 @@ In this project, you will work with a dataset containing information about retai
 ### Gain hands-on experience in data cleaning and exploratory data analysis.
 ### Develop skills in interpreting descriptive statistics and time series analysis.
 ### Learn to use data visualization for effective communication of insights.
+
+
+# Project OutPut ScreenShort
